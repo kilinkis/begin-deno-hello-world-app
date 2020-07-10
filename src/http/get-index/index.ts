@@ -16,7 +16,7 @@ let body = `
     </h1>
 
     <p class="center-text">
-      Your <a href="https://begin.com" class="link" target="_blank">Begin</a> app is ready to go!
+      <img loading="lazy" src="https://media.giphy.com/media/vNLVTkVS0fmzReDfFF/giphy.gif" alt="conan dancing" />
     </p>
 
   </body>
